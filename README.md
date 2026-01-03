@@ -16,3 +16,8 @@ A lightweight Java-based system monitoring application that periodically collect
 - Java (JDK)
 - JVM Management APIs
 - Command-line interface
+
+## How to Run
+```bash
+javac src/app/Main/.java
+Java -cp src app.Main
